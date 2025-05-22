@@ -20,4 +20,6 @@ def findJacobien(traininginput,x):
     J[i,0] = -math.exp(x[1]*traininginput[i])
     J[i,1] = -x[0]*traininginput[i]*math.exp(x[1]*traininginput[i])
     return J
-  
+
+
+
