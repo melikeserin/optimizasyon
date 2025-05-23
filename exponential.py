@@ -23,3 +23,10 @@ def findJacobien(traininginput,x):
 
 
 
+
+
+
+
+
+
+
