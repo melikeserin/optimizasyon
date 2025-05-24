@@ -30,3 +30,13 @@ def findJacobien(traininginput,x):
 
 
 
+
+
+
+
+
+
+
+
+
+
