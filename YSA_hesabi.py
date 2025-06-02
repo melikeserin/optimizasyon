@@ -34,3 +34,8 @@ final_input = np.dot(weights_hidden_output, hidden_output) + bias_output
 final_output = sigmoid(final_input)  # veya başka bir aktivasyon
 
 print(f"Çıktı: {final_output[0]:.4f}")
+
+
+
+
+
