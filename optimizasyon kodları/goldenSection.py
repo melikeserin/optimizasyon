@@ -39,7 +39,11 @@ def golden_section_search(f, x_alt, x_ust, delta_x_son):
 
 # fonksiyon
 def f(x):
-    return (x-1)**2*(x-2)*(x-3) 
+    return (x-1)**2*(x-2)*(x-3)
+
+
+
+
 
 # Kullanım
 x_minimum, f_minimum = golden_section_search(f, 0, 4, 0.0001)
